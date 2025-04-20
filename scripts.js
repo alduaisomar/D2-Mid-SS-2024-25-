@@ -146,11 +146,11 @@ document.addEventListener('DOMContentLoaded', function () {
         { id: "20249103166", name: " Mohammad Khaled Hamed Obaido", section: "  14", lecturer: " Othmen Chedly", session: "   1st Session", time: " 14:00-16:00", lab: "    D016" },
         { id: "20241103160", name: " Mohammad Majed Khaled Al Atiat", section: "  11", lecturer: " Elaf Al-Najafi", session: "   1st Session", time: " 14:00-16:00", lab: "    D016" },
         { id: "20249501055", name: " Mohammad Wasfi Mohammad Al Sharu", section: "  11", lecturer: " Elaf Al-Najafi", session: "   1st Session", time: " 14:00-16:00", lab: "    D016" },
-        { id: "20231405075", name: " Mohannad Abdullah  Taha Alflaieh", section: "  11", lecturer: " Elaf Al-Najafi", session: "   1st Session", time: " 14:00-16:00", lab: "    D016" },
+       
         { id: "20231301105", name: " Mo'men Ahmad Rfefan Almathhan", section: "  6", lecturer: " Salma Ahmed", session: "   1st Session", time: " 14:00-16:00", lab: "    D016" },
         { id: "20249405040", name: " Nadeem Manaf Nayel Dababneh", section: "  6", lecturer: " Salma Ahmed", session: "   1st Session", time: " 14:00-16:00", lab: "    D016" },
         { id: "20249701018", name: " Noor Rateb Mahmoud Fadli", section: "  6", lecturer: " Salma Ahmed", session: "   1st Session", time: " 14:00-16:00", lab: "    D016" },
-        { id: "20231402055", name: " Nour Wasfi Yousef Atoom", section: "  11", lecturer: " Elaf Al-Najafi", session: "   1st Session", time: " 14:00-16:00", lab: "    D016" },
+        
         { id: "20249103101", name: " Nuha Moayad .m Nusir", section: "  14", lecturer: " Othmen Chedly", session: "   1st Session", time: " 14:00-16:00", lab: "    D016" },
         { id: "20241103027", name: " Omar Eyad Mahmoud Adi", section: "  11", lecturer: " Elaf Al-Najafi", session: "   1st Session", time: " 14:00-16:00", lab: "    D016" },
         { id: "20241405071", name: " Own Omar I Mahamid", section: "  6", lecturer: " Salma Ahmed", session: "   1st Session", time: " 14:00-16:00", lab: "    D016" },
